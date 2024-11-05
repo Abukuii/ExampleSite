@@ -11,6 +11,7 @@ window.addEventListener('DOMContentLoaded', () => {
     // Close mobile menu on close button click
     closeMenuBtn.addEventListener("click", () => hamburgerBtn.click());
 
+    
 
 
 })
